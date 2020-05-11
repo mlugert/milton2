@@ -14,7 +14,7 @@
         </init-param>
         <init-param>
             <param-name>controllerPackagesToScan</param-name>
-            <param-value>com.helloworld</param-value>
+            <param-value>com.simflofy.webdav</param-value>
         </init-param>		
         <!--
         <init-param>
